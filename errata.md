@@ -85,6 +85,15 @@ Which should be
 ### Section 4.3 - page 123
 
 Under heading 4, the formula $P(x) \wedge Q(x)$ should be $P(x) \vee Q(x)$.
+
+### Solution 4.2.4 and 4.2.5
+
+The notation used to define the truth sets is not very clear. It is better to write:
+
+4. $\{ (x,y,z) : Sum(x,y,z) \}$
+5. $\{ (u,v) : Sum(u,5,v) \}$
+
+
  
 ### Solution 4.7.2
 
