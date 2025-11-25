@@ -90,8 +90,8 @@ Under heading 4, the formula $P(x) \wedge Q(x)$ should be $P(x) \vee Q(x)$.
 
 The notation used to define the truth sets is not very clear. It is better to write:
 
-4. $ \\{ (x,y,z) : Sum(x,y,z) \\} $
-5. $ \\{ (u,v) : Sum(u,5,v) \\} $
+4. $ \lbrace (x,y,z) : Sum(x,y,z) \rbrace $
+5. $ \lbrace (u,v) : Sum(u,5,v) \rbrace $
 
 
  
